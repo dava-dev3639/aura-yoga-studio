@@ -1,1 +1,1 @@
-# aura-yoga-studio
+# aura-yog
